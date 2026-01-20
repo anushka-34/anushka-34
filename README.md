@@ -18,8 +18,6 @@ I believe in consistent learning, writing readable code, and growing step by ste
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
@@ -42,8 +40,14 @@ I believe in consistent learning, writing readable code, and growing step by ste
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *add your LinkedIn link*  
-- 📧 Email: *add your email*  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 
 ---
 
